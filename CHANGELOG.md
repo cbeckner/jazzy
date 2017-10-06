@@ -11,6 +11,10 @@
   [Akhil Batra](https://github.com/akhillies)
   [#913](https://github.com/realm/jazzy/issues/913)
 
+* Automatically use Swift or Objective-C syntax highlighting for code blocks
+  in documentation comments.  Improve Swift highlighting with latest Rouge.  
+  [John Fairhurst](https://github.com/johnfairh)
+  [#218](https://github.com/realm/jazzy/issues/218)
 
 ##### Bug Fixes
 
